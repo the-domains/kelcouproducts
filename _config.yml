@@ -1,0 +1,28 @@
+name: KelcouProducts
+favicon: null
+layout_spectrum: 0.038072332041338086
+typography_spectrum: 0.46633822307921946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8295289813540876
+  lightness: 0.5327010357286781
+  saturation: 0.8017414403147995
+  rhythmicContrast: 0.28968074079602957
+purpose: []
